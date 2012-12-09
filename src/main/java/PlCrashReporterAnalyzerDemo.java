@@ -1,3 +1,5 @@
+package com.wyntersoft.crashreporteranaylzerdemo;
+
 import com.wyntersoft.crashreporteranalyzer.*;
 
 /**
@@ -5,7 +7,6 @@ import com.wyntersoft.crashreporteranalyzer.*;
  * User: dwarren
  * Date: 11/25/12
  * Time: 11:50 AM
- * To change this template use File | Settings | File Templates.
  */
 public class PlCrashReporterAnalyzerDemo {
     public static void main(String args[])
